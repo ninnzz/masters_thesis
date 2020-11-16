@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+divided/
+raw/
+.DS_Store
+*.lock
