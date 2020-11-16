@@ -1,0 +1,5 @@
+divided/
+raw/
+.DS_Store
+*.lock
+.venv
